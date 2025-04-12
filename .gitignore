@@ -12,6 +12,7 @@ frontend/.angular/
 # Environment files
 .env
 *.env
+*.env.local
 
 # System Files
 .DS_Store
